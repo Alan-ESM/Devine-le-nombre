@@ -1,0 +1,14 @@
+C:\Users\Alan\source\repos\Devine le nombre\bin\Debug\net10.0\Devine le nombre.exe
+C:\Users\Alan\source\repos\Devine le nombre\bin\Debug\net10.0\Devine le nombre.deps.json
+C:\Users\Alan\source\repos\Devine le nombre\bin\Debug\net10.0\Devine le nombre.runtimeconfig.json
+C:\Users\Alan\source\repos\Devine le nombre\bin\Debug\net10.0\Devine le nombre.dll
+C:\Users\Alan\source\repos\Devine le nombre\bin\Debug\net10.0\Devine le nombre.pdb
+C:\Users\Alan\source\repos\Devine le nombre\obj\Debug\net10.0\Devine le nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\Devine le nombre\obj\Debug\net10.0\Devine le nombre.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\Devine le nombre\obj\Debug\net10.0\Devine le nombre.AssemblyInfo.cs
+C:\Users\Alan\source\repos\Devine le nombre\obj\Debug\net10.0\Devine le nombre.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Devine le nombre\obj\Debug\net10.0\Devine le nombre.dll
+C:\Users\Alan\source\repos\Devine le nombre\obj\Debug\net10.0\refint\Devine le nombre.dll
+C:\Users\Alan\source\repos\Devine le nombre\obj\Debug\net10.0\Devine le nombre.pdb
+C:\Users\Alan\source\repos\Devine le nombre\obj\Debug\net10.0\Devine le nombre.genruntimeconfig.cache
+C:\Users\Alan\source\repos\Devine le nombre\obj\Debug\net10.0\ref\Devine le nombre.dll
